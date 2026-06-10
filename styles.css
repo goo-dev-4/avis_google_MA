@@ -764,7 +764,7 @@ img {
     letter-spacing: 0.5px;
     width: 100%;
     position: fixed;
-    top: 90px;
+    top: 100px;
     left: 0;
     right: 0;
     z-index: 999;
@@ -1056,7 +1056,7 @@ img {
     }
 
     .hero {
-        padding: 160px 0 40px;
+        padding: 180px 0 40px;
     }
 
     .hero-content h1 {
