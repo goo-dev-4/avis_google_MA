@@ -1086,10 +1086,6 @@ img {
     }
 }
 
-/* ============================================ */
-/* RTL SUPPORT (Arabic / Moroccan layout)        */
-/* ============================================ */
-
 [dir="rtl"] body {
     text-align: right;
 }
@@ -1162,10 +1158,6 @@ img {
     }
 }
 
-/* ============================================ */
-/* MOROCCO FLAG ACCENTS                          */
-/* ============================================ */
-
 .hero {
     background: linear-gradient(180deg, #fdf6f6 0%, var(--white) 100%);
     position: relative;
@@ -1235,7 +1227,6 @@ img {
     background: var(--secondary);
 }
 
-/* Arabic typography improvements */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Cairo', 'Tajawal', 'Montserrat', sans-serif;
     font-weight: 800;
@@ -1260,4 +1251,3 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 26px;
     }
 }
-
